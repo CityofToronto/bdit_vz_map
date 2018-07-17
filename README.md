@@ -1,7 +1,7 @@
 # Vision Zero Web Maps
 This wiki page describes a collection of web maps of Vision Zero initiatives taken on by other cities around the world. The purpose of this wiki is to help identify what web map features we want to see in our own Vision Zero web map. Later, we may also add a collection of non-Vision Zero web maps that showcase features we are interested in.
 
-The Vision Zero Network in the US has created a static map showing the participating US cities, which can be found [here](https://visionzeronetwork.org/resources/vision-zero-cities/). Our description list below does not look into every one of those cities, but the major players and their interesting or useful maps, as examples to consult for our own. 
+The Vision Zero Network in the US has created a static map showing the participating US cities, which can be found [here](https://visionzeronetwork.org/resources/vision-zero-cities/). There also exists an interactive map of US cities and the stages/focuses of their road safety plans [here](https://batchgeo.com/map/028ae108ab7dbd212db3ab4eb6b4d204). Our description list below does not look into every one of those cities, but instead looks into the major players and their interesting or useful maps, as examples to consult for our own. 
 
 DEKRA, a European vehicle inspection company, has also created an interactive map, [here](http://www.dekra-vision-zero.com/map/), that shows towns and cities with over 50,000 inhabitants in selected European countries, the USA and Japan that reported no deaths caused by road accidents in built-up (urban) areas in at least a single year in the period from 2009 to 2013. There are filters for population, year, continent, country, and the number of times the city has achieved Vision Zero for a year. 
 
