@@ -11,7 +11,7 @@ DEKRA, a European vehicle inspection company, has also created an interactive ma
 ### Canada
 
 #### Toronto
-![](https://github.com/CityofToronto/bdit_team_wiki/blob/master/vz_maps/Toronto.PNG)
+![](img/Toronto.PNG)
 [Safety Measures & Mapping - City of Toronto](https://www.toronto.ca/services-payments/streets-parking-transportation/road-safety/vision-zero/safety-measures-and-mapping/)
 
 - toggle safety measures
@@ -76,7 +76,7 @@ Collisions
 
 
 #### New York City
-![](https://github.com/CityofToronto/bdit_team_wiki/blob/master/vz_maps/NYC.PNG)
+![](img/NYC.PNG)
 [Main page](https://www1.nyc.gov/site/visionzero/maps-data/maps-data.page)
 <br>[Map](http://www.visionzeroview.nyc/)
 <br>[Input Map](https://www1.nyc.gov/assets/visionzero/maps-data/vz-input-map.shtml) and the [Github for it](https://github.com/nycdot/nycdot-street-view-vision-zero)
@@ -120,7 +120,7 @@ Massachusetts also has a [fatalities map](http://www.visionzerocoalition.org/fat
 
 
 #### Los Angeles
-![](https://github.com/CityofToronto/bdit_team_wiki/blob/master/vz_maps/LA.PNG)
+![](img/LA.PNG)
 [LA VZ Map](http://visionzero.lacity.org/map/)
 <br>[Resources - Vision Zero Los Angeles](http://visionzero.lacity.org/resources/)
 <br>[High Injury Network](https://ladot.maps.arcgis.com/apps/MapJournal/index.html?appid=488062f00db44ef0a29bf481aa337cb3)
@@ -146,7 +146,7 @@ HIN
 
 
 #### Seattle
-![](https://github.com/CityofToronto/bdit_team_wiki/blob/master/vz_maps/Seattle.PNG)
+![](img/Seattle.PNG)
 [Externally commissioned data visualization of collisions since 2006 in Seattle](http://seattlecollisions.timganter.io/), by Tim Ganter
 <br>[Screen captures of the old official dashboard](http://sdotblog.seattle.gov/2016/06/10/new-vision-zero-dashboard-now-online/) that is no longer accessible
 
@@ -174,7 +174,7 @@ Old Dashboard
 
 
 #### San Jose
-![](https://github.com/CityofToronto/bdit_team_wiki/blob/master/vz_maps/SanJose.PNG)
+![](img/SanJose.PNG)
 [Main page for maps](http://sanjoseca.gov/index.aspx?NID=5031)
 <br>[FSI 2013-2017](https://csjdotgis.maps.arcgis.com/apps/webappviewer/index.html?id=ce7988594f2a4c509e19d07c5ad82521)
 <br>[FSI 2012-2016](http://csjdotgis.maps.arcgis.com/apps/webappviewer/index.html?id=df3fef3152eb4415a06cdb24b2eeb69b)
@@ -246,7 +246,7 @@ Chicago does not appear to have a dedicated VZ map, but some digging turned up a
 
 
 #### Denver
-![](https://github.com/CityofToronto/bdit_team_wiki/blob/master/vz_maps/Denver.PNG)
+![](img/Denver.PNG)
 [Denver Vision Zero](https://geospatialdenver.maps.arcgis.com/apps/MapJournal/index.html?appid=e333ca7679ec40c2a3ef449e3b111743)
 
 As an ESRI story, this web map shows the multicriteria evaluation/analysis behind the creation of the Priority High Injury Network, which takes the HIN and applies different components of communities of concern to the analysis. Factors such as older adults, children and school areas, and socio-economics. 
@@ -272,7 +272,7 @@ Dashboard
 
 
 #### Columbia
-![](https://github.com/CityofToronto/bdit_team_wiki/blob/master/vz_maps/Columbia.PNG)
+![](img/Columbia.PNG)
 
 [Maps & Data - CoMo Vision Zero](http://www.comovisionzero.org/maps-data)
 
@@ -285,7 +285,7 @@ Dashboard
 
 
 #### Philadelphia
-![](https://github.com/CityofToronto/bdit_team_wiki/blob/master/vz_maps/Philadelphia.PNG)
+![](img/Philadelphia.PNG)
 [Philadelphia Vision Zero](https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=30ef5a719bc54ee7863813fe1b0b684e)
 
 - shows high injury network
@@ -310,7 +310,7 @@ Dashboard
 ### Other Countries
 
 #### London, UK
-![](https://github.com/CityofToronto/bdit_team_wiki/blob/master/vz_maps/London.PNG)
+![](img/London.PNG)
 
 [TfL Collisions Map](https://tfl.gov.uk/corporate/safety-and-security/road-safety/london-collision)
 
