@@ -335,8 +335,8 @@ HIN v1
 
 #### Manchester
 [Greater Manchester recorded road casualties 2005-2016 v1](https://stats.visionzeromcr.org.uk/)
-[Greater Manchester recorded road casualties 2005-2016 v2](https://fusiontables.googleusercontent.com/embedviz?q=select+col2+from+1hJIxNGosBhiYuPYAIpEJA1S6BrYLRDTlZssV9AHD&viz=MAP&h=false&lat=53.49523364278813&lng=-2.3330983747024447&t=1&z=11&l=col2&y=2&tmplt=2&hml=TWO_COL_LAT_LNG)
-[Greater Manchester recorded road casualties 2005-2016 by mode and severity](https://fusiontables.google.com/data?docid=1hJIxNGosBhiYuPYAIpEJA1S6BrYLRDTlZssV9AHD#map:id=3)
+<br>[Greater Manchester recorded road casualties 2005-2016 v2](https://fusiontables.googleusercontent.com/embedviz?q=select+col2+from+1hJIxNGosBhiYuPYAIpEJA1S6BrYLRDTlZssV9AHD&viz=MAP&h=false&lat=53.49523364278813&lng=-2.3330983747024447&t=1&z=11&l=col2&y=2&tmplt=2&hml=TWO_COL_LAT_LNG)
+<br>[Greater Manchester recorded road casualties 2005-2016 by mode and severity](https://fusiontables.google.com/data?docid=1hJIxNGosBhiYuPYAIpEJA1S6BrYLRDTlZssV9AHD#map:id=3)
 
 - first two links are about the same; showing collisinos symbolized by mode and severity
 - popups with information about the collision, including streetview preview
