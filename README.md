@@ -307,9 +307,9 @@ Dashboard
 - dynamic heat map
 
 
-### Other Countries
+### United Kingdom
 
-#### London, UK
+#### London
 ![](img/London.PNG)
 
 [TfL Collisions Map](https://tfl.gov.uk/corporate/safety-and-security/road-safety/london-collision)
@@ -321,3 +321,28 @@ Dashboard
 - cluster points, choropleth
 - Google, streetview
 - [comparing the NYC map to the TfL map](https://nyc.streetsblog.org/2016/07/27/behold-the-transport-for-london-traffic-collision-map/)
+
+
+#### Edinburgh
+[Main page](http://vision-zero-edinburgh-techresearch.hub.arcgis.com/), including static accidents hotspot map
+<br>[High Injury Network v1](https://techresearch.maps.arcgis.com/apps/Cascade/index.html?appid=5e550eda39f8478ea9b99c4cd89b5f20)
+<br>[High Injury Network v2](https://techresearch.maps.arcgis.com/apps/View/index.html?appid=c837797c745848e5ac25f41a954cb625)
+
+HIN v1
+- ESRI
+- symbology highlighting road segments that have experienced accidents, popup shows number of accidents
+
+
+#### Manchester
+[Greater Manchester recorded road casualties 2005-2016 v1](https://stats.visionzeromcr.org.uk/)
+[Greater Manchester recorded road casualties 2005-2016 v2](https://fusiontables.googleusercontent.com/embedviz?q=select+col2+from+1hJIxNGosBhiYuPYAIpEJA1S6BrYLRDTlZssV9AHD&viz=MAP&h=false&lat=53.49523364278813&lng=-2.3330983747024447&t=1&z=11&l=col2&y=2&tmplt=2&hml=TWO_COL_LAT_LNG)
+[Greater Manchester recorded road casualties 2005-2016 by mode and severity](https://fusiontables.google.com/data?docid=1hJIxNGosBhiYuPYAIpEJA1S6BrYLRDTlZssV9AHD#map:id=3)
+
+- first two links are about the same; showing collisinos symbolized by mode and severity
+- popups with information about the collision, including streetview preview
+- Google
+
+- final map can toggle all the years, including differentialting between fatal, serious, or slight
+- interactive map with popups showing collision info and streetview prveviews
+- also tab for attribute table
+
