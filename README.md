@@ -256,6 +256,28 @@ As an ESRI story, this web map shows the multicriteria evaluation/analysis behin
 - dynamic legend
 
 
+#### Washington DC
+[Main page](http://dcvisionzero.com/)
+<br>[Safety Input Map](http://visionzero.ddot.dc.gov/VisionZero/)
+<br>[Crashes map from data portal](http://opendata.dc.gov/datasets/crashes-in-dc)
+
+Main page maps
+- mapping of different aspects of Vision Zero
+- a bit busted, many of the maps/layers don't load
+- info bar on the side
+- ESRI
+
+Safety Input Map
+- users can report hazardous locations and behaviours
+- extensive legend and popup descriptions
+- ESRI
+
+Crashes map
+- ESRI based data portal visualization
+- attribute table with many fields
+- related table with additional crash details
+
+
 #### Alexandria
 [High Crash Locations](https://www.alexandriava.gov/VisionZero#VisionZeroCrashDashboard)
 <br>[VZ Dashboard](https://www.alexandriava.gov/performance/info/dashboard.aspx?id=101066)
