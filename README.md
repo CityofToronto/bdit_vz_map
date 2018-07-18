@@ -243,6 +243,7 @@ Chicago does not appear to have a dedicated VZ map, but some digging turned up a
 - home extent
 - search functionality
 - popups on click show description
+- same style as San Diego's and Philadelphia's map
 
 
 #### Denver
@@ -273,7 +274,7 @@ Safety Input Map
 - ESRI
 
 Crashes map
-- ESRI based data portal visualization
+- ESRI based data portal
 - attribute table with many fields
 - related table with additional crash details
 
@@ -306,8 +307,19 @@ Dashboard
 - Google map
 
 
+#### San Diego
+[Traffic Deaths and Severe Injuries](https://www.sandiego.gov/vision-zero)
+
+- ESRI
+- same style as Portland and Philadelphia's maps
+- tabs filtering peds, bikes, and motorcycles
+- filter for 2016 or 2017
+- fatals and severe injuries
+- popup on click
+
+
 #### Philadelphia
-![](img/Philadelphia.PNG)
+![](https://github.com/CityofToronto/bdit_team_wiki/blob/master/vz_maps/Philadelphia.PNG)
 [Philadelphia Vision Zero](https://phl.maps.arcgis.com/apps/MapSeries/index.html?appid=30ef5a719bc54ee7863813fe1b0b684e)
 
 - shows high injury network
@@ -315,6 +327,7 @@ Dashboard
 - tab for methodology
 - crash info popup on click, shows age/gender/mode/year
 - home extent
+- same style (tabs) as Portland and San Diego's
 
 
 #### Montgomery County
